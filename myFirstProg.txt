@@ -1,0 +1,2 @@
+sudo su
+chmod foldername 777 -r     <<<<< chmod -R <permissionsettings> <dirname> >>>>>
